@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44"><g><g opacity=".7" transform="translate(-1459 -2783)"><image width="44" height="44" transform="translate(1459 2783)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAADd0lEQVRYR+2ZW4iNURTHf8v9mlvu8kQuSYlShFKSKCRyKTzgBUV58GDMiyR5UPOiPJASMSmXB5REEi9qXCO3ByESyXUYS/9pz3R8850z35nznTPnTHZN08zss/fv+++11/qvb8zdjwOdAKf8R725+7ny52wmbKg04J8dCvhPlrhWvFs7hVFWhZ8CNcCvCNwXYD0wC+jSDtBZge8D1WYm4H+Gu28E5gPdygn4QQCurxTgOjOrilPQ3dcBi4Du5aTwJ+AO0BCB0kWcAIwKxabUzDnTWhRWcKqGncsxS5RauaT7dazCkfSpSznvv8IvABWd94AySn9gPDAppWNITeGvwHngNvDWzPQz7q5cPSQALwWGFQieCvA3QE3AJTNrURmbAN19JrAm5PC2cqcCXAuczAUb1JbDWwBsKMA4FQz8DthrZs+TSObuQ4GtwOQk82PmFAx8FThqZh+TALi7quRyYHWS+cUAPgXUmtmPpADuPi+onPQjmfOyKizzUxdSk9LTCGBsTOydDsDfk+7u7vLSm2NM1WvgYdijawibfpF5WYHlh/eEjkMmaDqwBegTWeAGcDiPkJDpXxG+MpfSA58FTgCC7Q3sDM4wkcL3gCozk7rKp8qf+0MhyFxAsatL9ziJwu6uk9oOjIvM14keMrObYb8ewO6YgpNTYbVIjXnV3dW/CXhMDNhF4IiZ5QyLcOGWAGoAouNNEEhZR/vpJHcBE/MJiWbgsMgqYFlML6dT0OW7YGaf45R2d4XCXGAlMDAmfm+Z2b6m36cFrLCoBkbGQAn6MnBdpRlQdy2z3wsYDEwDFgJ9Yz6rcDhoZupwGkcqwGEhKawcqosRNxTTurA6Wj3EgHBxFLtxQ3OumJleKTSPNIEVyzuAGVkA8v21nF2NmSmG0wcOKg8HNgFT86WLzH8CHDOzu9F1UlM4I8YUz2uBKSFn5sOuzKMCIcOk7y1G6sBBafmCxcCc4HN7tkIt0A/BM58xM1222FEU4Ay15cBmB7UHhRcsehgNVUm97hLcI+CamT1r7TiKChy5LKOD2kr8esupzkPt0ksz+90aaIYIhReOpJulMa8tCivdyEvEvf1JgynnGu6ugiMvkbg06/YeCPFXdMCYDeTWtoWOO/PPWc2PjMyr9iANJV3xLwsQzTwFt0ilfqb/wMVWvOIUbvzHYkX96/YvlCbrDurJueoAAAAASUVORK5CYII="/></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 364 364" style="enable-background:new 0 0 364 364;" xml:space="preserve" width="512px" height="512px">
+<g>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M244.424,83.438H119.577c-19.925,0-36.139,16.213-36.139,36.139v124.846   c0,19.929,16.214,36.143,36.139,36.143h124.847c19.928,0,36.142-16.214,36.142-36.143V119.577   C280.566,99.652,264.352,83.438,244.424,83.438z M181.998,246.894c-35.779,0-64.892-29.113-64.892-64.896   c0-35.779,29.113-64.892,64.892-64.892c35.783,0,64.896,29.113,64.896,64.892C246.894,217.781,217.781,246.894,181.998,246.894z    M248.982,130.525c-8.471,0-15.359-6.888-15.359-15.354c0-8.467,6.888-15.355,15.359-15.355c8.466,0,15.354,6.888,15.354,15.355   C264.336,123.638,257.448,130.525,248.982,130.525z" fill="#d1c6d3"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M181.998,144.531c-20.655,0-37.475,16.812-37.475,37.467   c0,20.663,16.82,37.479,37.475,37.479c20.663,0,37.471-16.816,37.471-37.479C219.469,161.343,202.661,144.531,181.998,144.531z" fill="#d1c6d3"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M0,0v364h364V0H0z M307.984,244.423c0,35.053-28.508,63.561-63.56,63.561   H119.577c-35.049,0-63.561-28.508-63.561-63.561V119.577c0-35.049,28.512-63.561,63.561-63.561h124.847   c35.052,0,63.56,28.512,63.56,63.561V244.423z" fill="#d1c6d3"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
